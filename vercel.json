@@ -1,0 +1,8 @@
+{
+  "name": "enosmith-blog",
+  "buildCommand": "npx hexo clean && npx hexo generate",
+  "outputDirectory": "public",
+  "framework": "hexo",
+  "cleanUrls": true,
+  "trailingSlash": false
+}
