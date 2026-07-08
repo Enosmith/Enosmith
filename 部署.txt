@@ -1,0 +1,4 @@
+  cd F:/Blog
+  hexo new "文章标题"
+  # 编辑 source/_posts/文章标题.md
+  git add . && git commit -m "feat: 新文章 XXX" && git push
